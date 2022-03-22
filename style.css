@@ -92,6 +92,12 @@ nav {
     margin-left: 60px;
 }
 
+@media only screen and (max-width: 360px) {
+    .card {
+       margin-left: 0;
+   }
+}
+
 .btn {
     background-color: #DA9432;
     color: #141C11;
